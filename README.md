@@ -2,7 +2,7 @@
 
 A browser-based first-person shooter game built with Three.js that simulates multiplayer functionality.
 
-![Game Screenshot](![image](https://github.com/user-attachments/assets/d72b6c14-88f7-4f21-983d-764cc30d02da)
+![image](https://github.com/user-attachments/assets/d72b6c14-88f7-4f21-983d-764cc30d02da)
 
 ## Features
 
